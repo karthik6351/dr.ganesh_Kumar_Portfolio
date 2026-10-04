@@ -311,6 +311,7 @@ ul {
    =================================================== */
 .hero {
     min-height: 100vh;
+    min-height: 100dvh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1846,6 +1847,12 @@ ul {
 
     .pub-number {
         font-size: 1.2rem;
+    }
+
+    /* Prevent iOS Safari zoom on input focus */
+    .form-group input,
+    .form-group textarea {
+        font-size: 16px;
     }
 }
 
