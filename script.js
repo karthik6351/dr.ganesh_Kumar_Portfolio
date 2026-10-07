@@ -139,7 +139,6 @@ document.addEventListener('DOMContentLoaded', () => {
         'a Deep Learning Researcher',
         'a Ph.D. in Image Processing',
         'an AI & ML Enthusiast',
-        'an Electronics & Communication Engineer',
         'a VLSI System Design Specialist',
         'an IoT Specialist',
         'an IEEE Member'
